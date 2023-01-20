@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c97e731.css",
+    "main.js": "/static/js/main.acb96144.js",
+    "static/js/787.ee7a4e20.chunk.js": "/static/js/787.ee7a4e20.chunk.js",
+    "static/media/item-3.png": "/static/media/item-3.b027d74ac71faae57a89.png",
+    "static/media/item-6.png": "/static/media/item-6.2ad22660fe558ca4ac27.png",
+    "static/media/item-5.png": "/static/media/item-5.3e115254785413fe1412.png",
+    "static/media/backgroud.jpg": "/static/media/backgroud.b6e4ea295e3a3ab0e893.jpg",
+    "static/media/item-1.png": "/static/media/item-1.bf03efc869d315aa3a0e.png",
+    "static/media/item-4.png": "/static/media/item-4.a48e13b94359e6045ed0.png",
+    "static/media/item-8.png": "/static/media/item-8.cb6bf5cd99e4ff568419.png",
+    "static/media/item-9.png": "/static/media/item-9.19d0ddda6499430b50c0.png",
+    "static/media/item-2.png": "/static/media/item-2.7ea9214f9467a8a722bd.png",
+    "static/media/item-7.png": "/static/media/item-7.332d8894e0423cf66382.png",
+    "static/media/Norecicclabes.png": "/static/media/Norecicclabes.83a72230c4d3effd7f58.png",
+    "static/media/basureroResiduosPeligrosos.png": "/static/media/basureroResiduosPeligrosos.fe50a34a495d90789814.png",
+    "static/media/basureroPlastico.png": "/static/media/basureroPlastico.8195165a37c5a41f76a2.png",
+    "static/media/basureroPapelCarton.png": "/static/media/basureroPapelCarton.bb19b931d867101e48a4.png",
+    "static/media/basureroAuluminio.png": "/static/media/basureroAuluminio.08eb11251a32ef70ce2a.png",
+    "index.html": "/index.html",
+    "main.1c97e731.css.map": "/static/css/main.1c97e731.css.map",
+    "main.acb96144.js.map": "/static/js/main.acb96144.js.map",
+    "787.ee7a4e20.chunk.js.map": "/static/js/787.ee7a4e20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c97e731.css",
+    "static/js/main.acb96144.js"
+  ]
+}
